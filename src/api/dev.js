@@ -1,4 +1,4 @@
-if (process.env.NODE_ENV === 'development') {
+{/*if (process.env.NODE_ENV === 'development') {
 	window.env = {
 		api: {
 			airdropUrl: 'https://ex.udonex.com/api/v2/airdrop',
@@ -37,4 +37,4 @@ if (process.env.NODE_ENV === 'development') {
 		sentryEnabled: false,
 		kycSteps: ['email', 'phone', 'profile', 'document', 'address'],
 	};
-}
+}*/}
