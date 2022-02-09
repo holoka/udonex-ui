@@ -1,16 +1,16 @@
 if (process.env.NODE_ENV === 'development') {
 	window.env = {
 		api: {
-			airdropUrl: 'https://ex.udonex.com/api/v2/airdrop',
+			airdropUrl: 'http://www.holatoken.xyz//api/v2/airdrop',
 			// airdropUrl: 'http://localhost:5000/api',
 			applogicUrl: 'http://localhost:9002/api/v2/applogic',
 			authUrl: 'http://localhost:9002/api/v2/barong',
 			finexUrl: 'http://localhost:9002/api/v2/finex',
-			ieoAPIUrl: 'https://ex.udonex.com/api/v2/ieo',
+			ieoAPIUrl: 'http://www.holatoken.xyz//api/v2/ieo',
 			rangerUrl: 'ws://localhost:9003/api/v2/ranger',
-			referralUrl: 'https://ex.udonex.com/api/v2/referral',
-			stakeUrl: 'https://ex.udonex.com/api/v2/stake',
-			sunshineUrl: 'https://ex.udonex.com/api/v2/sunshine',
+			referralUrl: 'http://www.holatoken.xyz//api/v2/referral',
+			stakeUrl: 'http://www.holatoken.xyz//api/v2/stake',
+			sunshineUrl: 'http://www.holatoken.xyz//api/v2/sunshine',
 			tradeUrl: 'http://localhost:9002/api/v2/peatio',
 			walletUrl: 'http://localhost:4000/api',
 			transactionUrl: 'http://localhost:4000/api',
